@@ -1,8 +1,6 @@
-  # # RoR sample application
+  # # Fresone
 
- This is the sample application :)
+ This is a social networking webapp
 
 
- Another line with git
-
- aGAIN
+ 
